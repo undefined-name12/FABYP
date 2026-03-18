@@ -1,4 +1,4 @@
-### 📡 FABYP (v8.0.0)
+### 📡 FABYP (v9.0.0)
 **Control de RTC y Bypasses**
 
 FABYP es una herramienta integral de gestión de WebRTC y RTC para usuarios avanzados. Proporciona una visibilidad sin precedentes de tus conexiones de voz y desbloquea varias limitaciones de la plataforma.
